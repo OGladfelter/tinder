@@ -1,0 +1,18 @@
+{
+    "nodes":[
+    {"name": "Profiles", "color": "#FE3C72"},
+    {"name":"Swipe Right", "color": "#FE3C72"},
+    {"name":"Swipe Left", "color": "gray"},
+    {"name":"Match", "color": "#FE3C72"},
+    {"name":"No Match", "color": "gray"},
+    {"name":"Messaged", "color": "#FE3C72"},
+    {"name":"No Messages", "color": "gray"}
+    ],
+    "links":[
+    {"source":0,"target":1,"value":296},
+    {"source":0,"target":2,"value":3113},
+    {"source":1,"target":3,"value":153},
+    {"source":1,"target":4,"value":143},
+    {"source":3,"target":5,"value":70},
+    {"source":3,"target":6,"value":83}
+    ]}
