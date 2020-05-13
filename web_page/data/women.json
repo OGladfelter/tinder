@@ -1,0 +1,18 @@
+{
+    "nodes":[
+    {"name": "Profiles", "color": "purple"},
+    {"name":"Swipe Right", "color": "purple"},
+    {"name":"Swipe Left", "color": "gray"},
+    {"name":"Match", "color": "purple"},
+    {"name":"No Match", "color": "gray"},
+    {"name":"Messaged", "color": "purple"},
+    {"name":"No Messages", "color": "gray"}
+    ],
+    "links":[
+    {"source":0,"target":1,"value":7.67},
+    {"source":0,"target":2,"value":92.33},
+    {"source":1,"target":3,"value":4.13},
+    {"source":1,"target":4,"value":3.54},
+    {"source":3,"target":5,"value":1.75},
+    {"source":3,"target":6,"value":2.38}
+    ]}
